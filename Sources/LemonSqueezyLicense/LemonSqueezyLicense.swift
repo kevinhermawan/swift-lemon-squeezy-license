@@ -6,6 +6,9 @@
 //
 
 import Foundation
+#if canImport(FoundationNetworking)
+import FoundationNetworking
+#endif
 
 /// A struct that provides methods to interact with the Lemon Squeezy license API.
 public struct LemonSqueezyLicense {
