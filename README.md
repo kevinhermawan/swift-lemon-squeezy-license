@@ -1,5 +1,7 @@
 # LemonSqueezyLicense
 
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fkevinhermawan%2Fswift-lemon-squeezy-license%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/kevinhermawan/swift-lemon-squeezy-license) [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fkevinhermawan%2Fswift-lemon-squeezy-license%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/kevinhermawan/swift-lemon-squeezy-license)
+
 A simple and intuitive way for interacting with the Lemon Squeezy License API in Swift.
 
 ## Overview
